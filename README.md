@@ -4,7 +4,7 @@ A basic recipe website built for [The Odin Project] (https://www.theodinproject.
 
 ## Live Preview
 
-[View the live site on GitHud Pages] (https://your-username.github.io/odin-recipes/)
+[View the live site on GitHud Pages] (https://github.com/Nasif-Islam/odin-recipes)
 
 ## Porject Description
 
